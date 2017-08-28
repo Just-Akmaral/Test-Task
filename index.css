@@ -1,0 +1,10 @@
+.success {
+    border: 1px solid green;
+}
+.error {
+    border: 1px solid red;
+}
+.progress {
+    border: 1px solid yellow;
+}
+
